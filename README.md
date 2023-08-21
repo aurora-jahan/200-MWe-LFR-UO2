@@ -1,6 +1,6 @@
 # Design and analysis of a 200 MWe lead-cooled SMR
 
-In this project, my team and I designed a small reactor capable of producing 200 MWe fueled by UO~2~ and cooled by liquid lead. I was responsible for designing the reactor core and simulating it in SERPENT. I also calculated the following design variables to analyze the viability of the core design:
+In this project, my team and I designed a small reactor capable of producing 200 MWe fueled by UO<sub>2</sub> and cooled by liquid lead. I was responsible for designing the reactor core and simulating it in SERPENT. I also calculated the following design variables to analyze the viability of the core design:
 
 1. Reactivity swing of the reactor from 0 to 50 GWd/ton burnup: 533 pcm
 2. Maximum control rod worth per assembly: -0.414$
